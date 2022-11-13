@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-After learning to code the html for a website that includes a dynamic table with a user-input filter option, Dana is not seeking to go further and expand the filtering options to the user with multiple user-input elements.  We duplicated the <li> items for most ids in the data object (city, state, country, and shape added to datetime).  We then needed to make our function loop through an object that holds the id and value of each user input given.  We also had to update our d3 listener for the changes to an input field rather than clicking a button like we had. In the end, the user is able to filter the table on multiple columns to find specific UFO sitings (there was one in my hometown in 2010!).
+After learning to code the html for a website that includes a dynamic table with a user-input filter option, Dana is not seeking to go further and expand the filtering options to the user with multiple user-input elements.  We duplicated the list items for most ids in the data object (city, state, country, and shape added to datetime).  We then needed to make our function loop through an object that holds the id and value of each user input given.  We also had to update our d3 listener for the changes to an input field rather than clicking a button like we had. In the end, the user is able to filter the table on multiple columns to find specific UFO sitings (there was one in my hometown in 2010!).
 
 ## Results
 
